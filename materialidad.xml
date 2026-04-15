@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa_sostenible>
+    
+    <stakeholder nombre="Usuarios Finales" importancia="Alta">
+        Expectativa: Garantía de accesibilidad universal y protección de la privacidad de sus datos.
+    </stakeholder>
+    
+    <stakeholder nombre="Proveedores de Infraestructura Cloud" importancia="Media-Alta">
+        Expectativa: Compromiso con centros de datos que operen con energía renovable.
+    </stakeholder>
+    
+    <stakeholder nombre="Desarrolladores" importancia="Alta">
+        Expectativa: Entornos de trabajo éticos, diversos y formación en código eficiente.
+    </stakeholder>
+    
+    <tema_material impacto="Ambiental">
+        <nombre>Eficiencia Energética del Código</nombre>
+        <descripcion>Optimización de algoritmos para reducir el consumo de recursos en servidores (Green IT).</descripcion>
+    </tema_material>
+    
+    <tema_material impacto="Social">
+        <nombre>Accesibilidad Web</nombre>
+        <descripcion>Diseño inclusivo para eliminar barreras digitales según estándares internacionales.</descripcion>
+    </tema_material>
+    
+    <tema_material impacto="Gobernanza">
+        <nombre>Ética de la IA y Algoritmos</nombre>
+        <descripcion>Transparencia en el uso de datos y eliminación de sesgos en el software desarrollado.</descripcion>
+    </tema_material>
+    
+</empresa_sostenible>
