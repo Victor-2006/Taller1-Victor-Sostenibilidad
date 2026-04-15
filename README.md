@@ -22,4 +22,4 @@ Para este análisis se han consultado fuentes en **Dialnet** y **arXiv**, enfoca
 > [2] J. Díaz et al., "Sostenibilidad en el desarrollo de software," *Dialnet*, Universidad de Sevilla, 2024.
 
 ---
-*Módulo: Sostenibilidad Aplicada al Sistema Productivo (1708)*.
+
